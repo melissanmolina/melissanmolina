@@ -1,10 +1,6 @@
 <div align="center">
-  <h1>
-    <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
-      Welcome!
-    </span>
-  </h1>
-  <h3>I’m Melissa Molina — Creative Director & Technologist</h3>
+ 
+  <h3>hi 💃 I’m Melissa Molina — Creative Director & Technologist</h3>
 </div>
 
 
