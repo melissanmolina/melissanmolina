@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h3>hi 💃 I’m Melissa Molina — Design x Tech</h3>
+  <h3>hi 💃 I’m Melissa Molina — Design x Tech Enthusiast</h3>
 </div>
 
 
