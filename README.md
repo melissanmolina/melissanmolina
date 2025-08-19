@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h3>hi 💃 I’m Melissa Molina — Creative Director & Technologist</h3>
+  <h3>hi 💃 I’m Melissa Molina — Creative Director</h3>
 </div>
 
 
