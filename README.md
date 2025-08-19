@@ -29,7 +29,8 @@
 ## 🌱 What I’m Working On  
 - 🏠 Interior Design moodboards - a hobby of mine.  
 - ☁️ Designing **Kinclime**, a personalized weather app with a warm, human brand voice.  
-- 🎮 Developing **Wishroot**, a cozy exploration game about memory and emotional milestones.  
+- 🎮 Developing **Wishroot**, a cozy exploration game about memory and emotional milestones.
+- 🎨 Testing new AI tools and workflows - always something new and exciting to try out and learn!
 
 ---
 
